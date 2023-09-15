@@ -16,7 +16,7 @@ import SpotifyPlayer from './SpotifyPlayer';
 
 const Body = () => {
   return (
-    <div className='grid grid-rows-4 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-flow-row-dense gap-3 ml-9 mr-10 bg-transparent'>
+    <div className='grid grid-rows-4 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-3 grid-flow-row-dense gap-3 ml-9 mr-10 bg-transparent'>
         <div className='border-[1px] h-50 w-50 col-span-2 bg-none text-center rounded-2xl'>
             <About/>
 
