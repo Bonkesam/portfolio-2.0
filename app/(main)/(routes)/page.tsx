@@ -1,3 +1,4 @@
+'use cleint';
 import Body from "@/components/ui/body";
 
 

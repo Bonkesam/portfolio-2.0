@@ -13,12 +13,7 @@ const Navbar = () => {
 
         <div className="flex justify-between bg-[#eef0f0]  border-none text-black text-center rounded-full cursor-pointer m-2 p-2">
             
-            <div className="bg-transparent  rounded-full hover:bg-[#232b37] hover:text-white  transition duration-500 ">
-                <p className="text-center pl-3 pr-3">All</p>
-            </div>
-            <div className="bg-transparent  rounded-full hover:bg-[#232b37] hover:text-white transition">
-                <p className="text-center pl-3 pr-3">About</p>
-            </div>
+            
             <div className="bg-transparent rounded-full hover:bg-[#232b37] hover:text-white  transition">
                 <Link href="https://github.com/Bonkesam"><p className="text-center ml-3 mr-3">Projects</p></Link>
             </div>
@@ -26,7 +21,7 @@ const Navbar = () => {
                 <Link href="https://tally.so/r/nWE6EQ"><p className="text-center ml-3 mr-3">Hire Me</p></Link>
             </div>
             <div className="bg-transparent rounded-full hover:bg-[#232b37] hover:text-white transition">
-                <Link href="https://calendly.com/bonkesam9"className="text-center ml-3 mr-3">Call</Link>
+                <Link href="https://calendly.com/bonkesam9"className="text-center ml-3 mr-3">Book a Call</Link>
             
             </div>
             
