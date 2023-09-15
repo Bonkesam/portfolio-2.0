@@ -35,9 +35,8 @@ class About extends Component { render() {
             <CardContent>
                 
                 <p className='text-left'>
-                <span className='text-bold text-2xl'>I'm Bonke</span> I Full Stack Developer dedicated to crafting exceptional digital experiences. I bring your vision to life with thoughtful design and robust code. My expertise in React, Node, MongoDB, MySQL, Next Js and other modern technologies enables me to develop scalable, performant solutions customized for your needs. I keep up with the latest industry trends so your product stands out in a competitive market.<br />
+                <span className='text-bold text-2xl'>I&apos;m Bonke</span> I Full Stack Developer dedicated to crafting exceptional digital experiences. I bring your vision to life with thoughtful design and robust code. My expertise in React, Node, MongoDB, MySQL, Next Js and other modern technologies enables me to develop scalable, performant solutions customized for your needs. I keep up with the latest industry trends so your product stands out in a competitive market.               
                 
-                The result is a pixel-perfect, intuitive product that delights your customers. Let's chat about how my development skills can provide real value and growth for your business.
                 </p>
             </CardContent>
 

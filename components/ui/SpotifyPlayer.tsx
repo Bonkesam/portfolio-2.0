@@ -1,3 +1,4 @@
+import { url } from 'inspector';
 import React from 'react';
 const music = [
     {
@@ -19,6 +20,7 @@ const SpotifyPlayer = () => {
     <div className=" bg-none rounded-lg w-full max-w-sm mx-auto">
         {music.map((item) => (
             <iframe
+            key={item.url}
             className="rounded-xl bg-origin-content mb-2"
             src={item.url}
             width="100%"
