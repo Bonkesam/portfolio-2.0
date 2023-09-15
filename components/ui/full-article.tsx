@@ -18,7 +18,7 @@ const FullBlogArticle = () => {
       </p>
 
       <p className='text-lg text-justify leading-8 pb-3'>
-        Of course, it wasn't that simple. I quickly realized that running machine learning experiments required serious computing power. I didn't have access to the servers and GPUs needed to train complex models. So I shifted gears and decided to learn about cloud computing. By leveraging the cloud, I could spin up virtual machines and access powerful hardware on demand.
+        Of course, it wasn&apos;t that simple. I quickly realized that running machine learning experiments required serious computing power. I didn&apos;t have access to the servers and GPUs needed to train complex models. So I shifted gears and decided to learn about cloud computing. By leveraging the cloud, I could spin up virtual machines and access powerful hardware on demand.
       </p>
 
       <p className='text-lg text-justify leading-8 pb-3'>
@@ -75,7 +75,7 @@ const FullBlogArticle = () => {
         Our dreams evolve as we grow wiser and confront new challenges. As long as we hold onto the passion that sparked our journey from the beginning, we can make our visions a reality. My path has taken many unexpected turns, but it has led me to where I am today. And for that, I&apos;m incredibly grateful. I can only imagine where it will take me next. But one thing is certain - I will continue pursuing my dreams, no matter how the path twists and turns ahead.
       </p>
       <p className='text-lg text-justify leading-8 pb-3'>
-        After completing the courses through ALX, I was honored to be selected as an ALX Golf Fellow. This prestigious designation is reserved for the top 5% of ALX learners who demonstrate exceptional skills and leadership potential. As a Gold Fellow, I gained access to exclusive learning experiences, mentoring opportunities, and a powerful professional network. Becoming an ALX Gold Fellow is one of my proudest accomplishments to date. It gave me the confidence to know I have what it takes to succeed in the tech industry. The intensive learning, collaboration, and growth during my fellowship propelled my capabilities forward tremendously. I&apos;m incredibly grateful for the doors this honor has opened up for me.
+        After completing the courses through ALX, I was honored to be selected as an ALX Gold Fellow. This prestigious designation is reserved for the top 5% of ALX learners who demonstrate exceptional skills and leadership potential. As a Gold Fellow, I gained access to exclusive learning experiences, mentoring opportunities, and a powerful professional network. Becoming an ALX Gold Fellow is one of my proudest accomplishments to date. It gave me the confidence to know I have what it takes to succeed in the tech industry. The intensive learning, collaboration, and growth during my fellowship propelled my capabilities forward tremendously. I&apos;m incredibly grateful for the doors this honor has opened up for me.
       </p>
       <Image 
         height={500}
@@ -84,7 +84,7 @@ const FullBlogArticle = () => {
         alt="ALX Gold Fellowship" 
       />
       <p className='text-lg text-justify leading-8 pb-3'>
-        Though my journey has taken many turns, becoming an ALX Gold Fellow reaffirmed that I'm on the right path. This achievement fueled my passion and drive to keep learning and make a positive impact. I&apos;m as committed as ever to realizing my vision of becoming an AI engineer who creates solutions that improve people&apos;s lives. The road ahead still stretches far, but I move forward with purpose, equipped with new skills and connections. I can only imagine what the next twist or turn will bring. But I&apos;m ready for whatever comes my way, boldly chasing my dreams one step at a time.
+        Though my journey has taken many turns, becoming an ALX Gold Fellow reaffirmed that I&apos;m on the right path. This achievement fueled my passion and drive to keep learning and make a positive impact. I&apos;m as committed as ever to realizing my vision of becoming an AI engineer who creates solutions that improve people&apos;s lives. The road ahead still stretches far, but I move forward with purpose, equipped with new skills and connections. I can only imagine what the next twist or turn will bring. But I&apos;m ready for whatever comes my way, boldly chasing my dreams one step at a time.
       </p> 
     
     </div>
