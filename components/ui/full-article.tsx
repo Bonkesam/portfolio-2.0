@@ -32,7 +32,7 @@ const FullBlogArticle = () => {
       <p className='text-lg text-justify leading-8 pb-3'>
         It didn&apos;t take long to realize the problem: my data was a mess. I had been so eager to start modeling that I didn&apos;t take the time to clean and process the datasets. With messy, inconsistent data, even the most advanced algorithms will fail.
       </p>
-      <p>
+      <p className='text-lg text-justify leading-8 pb-3'>
         I learned an important lesson: data is the foundation of any good machine learning model. So I decided to backtrack again and focus on developing my data analysis skills. I completed a data analysis course through ALX which gave me a rock-solid foundation in slicing, dicing, and visualizing data. But I wanted to take it a step further.
       </p>
       <p className='text-lg text-justify leading-8 pb-3'>
